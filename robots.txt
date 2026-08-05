@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /
 Disallow: /privacy.html
 
-Sitemap: https://lotusocean.netlify.app/sitemap.xml
+Sitemap: https://maxmckee.netlify.app/sitemap.xml
